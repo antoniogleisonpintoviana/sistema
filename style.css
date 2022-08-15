@@ -1,0 +1,73 @@
+/* codigo css */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo-marca-unicristos{
+
+}
+
+.tela-de-login{
+    padding: 10px;
+    height: 900px;
+    width: 1500px;
+    background-color: #001020;
+}
+
+.form-login{
+    padding: 10px;
+    color: #E0E0E8;
+}
+
+.btn-cadastrar{
+    background-color:transparent;
+    height: 30px;
+    width: 500px;
+    color: #E0E8E8;
+    padding-top: 10px;
+    
+
+    
+}
+
+.btn-veiculos{
+    background-color:transparent;
+    height: 30px;
+    width: 500px;
+    color: #E0E8E8;
+    padding-top: 10px;
+
+    
+}
+
+.btn-destinos{
+    background-color:transparent;
+    height: 30px;
+    width: 500px;
+    color: #E0E8E8;
+    padding-top: 10px;
+    
+
+    
+}
+
+.form-de-cadastro{
+    margin-left:  100px;
+}
+
+#tabela-lista-de-usuarios{
+   
+    border-collapse: collapse;
+}
+
+#tabela-lista-de-usuarios th{
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+    text-align: left;
+    color: blue;
+}
+
+#tabela-lista-de-usuarios body{
+    
+}
